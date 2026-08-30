@@ -34,14 +34,14 @@ gustavo:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title="JavaScript"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" title="HTML5"/>
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="40" title="CSS3"/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" width="40" title="GitHub"/>
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" title="VS Code"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" title="Excel"/>
 
 </div>
 

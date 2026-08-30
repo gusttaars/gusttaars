@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Gustavo%20Rodrigues&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A9A9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+%26+JavaScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A9A9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+%26+JavaScript;Analista+de+Dados+Estat%C3%ADsticos;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -34,14 +34,14 @@ gustavo:
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title="JavaScript"/>
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" title="HTML5"/>
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="40" title="CSS3"/>
-<img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git"/>
-<img src="https://cdn.simpleicons.org/github/ffffff" width="40" title="GitHub"/>
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" title="VS Code"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" title="Excel"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
 
 </div>
 
@@ -74,17 +74,11 @@ gustavo:
 
 <div align="center">
 
-<a href="mailto:gustavo.rodriguess2008@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
 <a href="https://www.linkedin.com/in/gustavo-rodrigues-9121343b6">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="https://github.com/gusttaars">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-<a href="https://instagram.com/grodrigues">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 </div>

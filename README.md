@@ -34,16 +34,13 @@ gustavo:
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title="JavaScript"/>
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" title="HTML5"/>
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="40" title="CSS3"/>
-<img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git"/>
-<img src="https://cdn.simpleicons.org/github/ffffff" width="40" title="GitHub"/>
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" title="VS Code"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" title="Excel"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" />
 
 </div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+</p>
 
 ---
 

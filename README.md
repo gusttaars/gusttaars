@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Gustavo%20Rodrigues&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A9A9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+%26+JavaScript;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A9A9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+%26+JavaScript;Analista+de+Dados+Estat%C3%ADsticos;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 

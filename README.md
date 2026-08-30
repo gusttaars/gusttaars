@@ -18,6 +18,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gusttaars&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A9A9FF&icon_color=8a2be2&text_color=c9d1d9" width="42%"/>
 
 ```yaml
+gustavo:
   nome: "Gustavo Rodrigues"
   foco:
     - "Desenvolvimento com Python, JavaScript, HTML e CSS"
@@ -91,3 +92,4 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+

@@ -22,9 +22,7 @@ gustavo:
   nome: "Gustavo Rodrigues"
   foco:
     - "Desenvolvimento com Python, JavaScript, HTML e CSS"
-    - "Análise estatística de dados"
-    - "Organização de conjuntos numéricos e medidas descritivas"
-  objetivo: "Construir soluções e explorar dados com clareza"
+  objetivo: "Construir soluções com clareza"
   aprendendo: "sempre algo novo"
 ```
 
@@ -76,16 +74,16 @@ gustavo:
 
 <div align="center">
 
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:gustavo.rodriguess2008@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
-<a href="https://linkedin.com/in/seu-usuario">
+<a href="https://www.linkedin.com/in/gustavo-rodrigues-9121343b6">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="https://github.com/gusttaars">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
-<a href="https://instagram.com/seu-usuario">
+<a href="https://instagram.com/grodrigues">
   <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 

@@ -58,3 +58,40 @@ aprendendo: "sempre algo novo"
 <p align="center">
   <img src="assets/footer.svg" alt="Obrigado pela visita" width="100%">
 </p>
+# Extras opcionais para o README
+
+Cole cada trecho no README quando fizer sentido. Eles ficaram de fora da versão principal
+porque dependem de dados que o perfil ainda não tem (e foram as imagens quebradas do README antigo).
+
+## 1) Linguagens mais usadas
+Só funciona quando você tiver repositórios públicos com código. Antes disso mostra "No languages data".
+
+```md
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttaars&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=e6edf3&langs_count=6&locale=pt-br" alt="Linguagens mais usadas">
+</p>
+```
+
+## 2) Troféus
+Só vale a pena depois de ter estrelas, PRs e mais atividade. Com tudo zerado o painel fica vazio.
+
+```md
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gusttaars&theme=darkhub&no-frame=true&margin-w=10" alt="Troféus do GitHub">
+</p>
+```
+
+## 3) Cobrinha comendo as contribuições
+1. Salve `opcional/snake.yml` no repositório do perfil como `.github/workflows/snake.yml`.
+2. Vá em Actions > Snake > Run workflow (a primeira execução cria a branch `output`).
+3. Só depois cole o trecho abaixo na seção "GitHub Analytics".
+
+```md
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusttaars/gusttaars/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gusttaars/gusttaars/output/github-snake.svg">
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/gusttaars/gusttaars/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+```
